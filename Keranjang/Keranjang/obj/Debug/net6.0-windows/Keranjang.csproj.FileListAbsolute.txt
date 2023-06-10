@@ -17,3 +17,22 @@ D:\Keranjang\Keranjang\obj\Debug\net6.0-windows\refint\Keranjang.dll
 D:\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.pdb
 D:\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.genruntimeconfig.cache
 D:\Keranjang\Keranjang\obj\Debug\net6.0-windows\ref\Keranjang.dll
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\bin\Debug\net6.0-windows\Keranjang.exe
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\bin\Debug\net6.0-windows\Keranjang.deps.json
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\bin\Debug\net6.0-windows\Keranjang.runtimeconfig.json
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\bin\Debug\net6.0-windows\Keranjang.dll
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\bin\Debug\net6.0-windows\Keranjang.pdb
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.csproj.AssemblyReference.cache
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.Form1.resources
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.Keranjang.resources
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.Properties.Resources.resources
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.csproj.GenerateResource.cache
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.GeneratedMSBuildEditorConfig.editorconfig
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.AssemblyInfoInputs.cache
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.AssemblyInfo.cs
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.csproj.CoreCompileInputs.cache
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.dll
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\refint\Keranjang.dll
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.pdb
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\Keranjang.genruntimeconfig.cache
+E:\kuliah\SEM 2\PBO\File Codingan\Mokad-PBO\Keranjang\Keranjang\obj\Debug\net6.0-windows\ref\Keranjang.dll

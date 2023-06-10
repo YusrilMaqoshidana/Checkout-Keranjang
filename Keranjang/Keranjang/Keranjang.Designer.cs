@@ -291,7 +291,7 @@
             label47.ForeColor = SystemColors.ButtonHighlight;
             label47.Location = new Point(1313, 223);
             label47.Name = "label47";
-            label47.Size = new Size(289, 24);
+            label47.Size = new Size(286, 24);
             label47.TabIndex = 37;
             label47.Text = "rembanganjember@yahoo.com";
             label47.Click += label47_Click;
@@ -321,7 +321,7 @@
             label46.ForeColor = SystemColors.ButtonHighlight;
             label46.Location = new Point(1313, 168);
             label46.Name = "label46";
-            label46.Size = new Size(334, 48);
+            label46.Size = new Size(330, 48);
             label46.TabIndex = 34;
             label46.Text = "Darungan, Kemuning Lor, Kec. Arjasa,\nKabupaten  Jember, Jawa Timur";
             // 
@@ -385,7 +385,7 @@
             label38.ForeColor = SystemColors.ButtonHighlight;
             label38.Location = new Point(782, 264);
             label38.Name = "label38";
-            label38.Size = new Size(136, 24);
+            label38.Size = new Size(135, 24);
             label38.TabIndex = 28;
             label38.Text = "Hubungi Kami";
             // 
@@ -418,7 +418,7 @@
             label41.ForeColor = SystemColors.ButtonHighlight;
             label41.Location = new Point(782, 174);
             label41.Name = "label41";
-            label41.Size = new Size(131, 24);
+            label41.Size = new Size(129, 24);
             label41.TabIndex = 25;
             label41.Text = "Tentang Kami";
             // 
@@ -538,7 +538,7 @@
             label33.ForeColor = SystemColors.ButtonHighlight;
             label33.Location = new Point(957, 81);
             label33.Name = "label33";
-            label33.Size = new Size(724, 24);
+            label33.Size = new Size(716, 24);
             label33.TabIndex = 2;
             label33.Text = "Berlangganan untuk mengetahui desain terbaru website dan update terbaru kami!";
             // 
@@ -731,6 +731,7 @@
             checkBox5.Size = new Size(18, 17);
             checkBox5.TabIndex = 0;
             checkBox5.UseVisualStyleBackColor = true;
+            checkBox5.CheckedChanged += checkBox5_CheckedChanged;
             // 
             // panel5
             // 
@@ -873,6 +874,7 @@
             checkBox4.Size = new Size(18, 17);
             checkBox4.TabIndex = 0;
             checkBox4.UseVisualStyleBackColor = true;
+            checkBox4.CheckedChanged += checkBox4_CheckedChanged;
             // 
             // panel4
             // 
@@ -1014,6 +1016,7 @@
             checkBox3.Size = new Size(18, 17);
             checkBox3.TabIndex = 0;
             checkBox3.UseVisualStyleBackColor = true;
+            checkBox3.CheckedChanged += checkBox3_CheckedChanged;
             // 
             // panel3
             // 
@@ -1036,6 +1039,7 @@
             panel3.Name = "panel3";
             panel3.Size = new Size(1556, 359);
             panel3.TabIndex = 3;
+            panel3.Paint += panel3_Paint;
             // 
             // label12
             // 
@@ -1199,6 +1203,8 @@
             checkBox1.Size = new Size(18, 17);
             checkBox1.TabIndex = 0;
             checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
+            checkBox1.Click += checkBox1_Click;
             // 
             // label1
             // 
@@ -1207,7 +1213,7 @@
             label1.Font = new Font("Montserrat Black", 36F, FontStyle.Bold, GraphicsUnit.Point);
             label1.Location = new Point(690, 105);
             label1.Name = "label1";
-            label1.Size = new Size(540, 83);
+            label1.Size = new Size(538, 83);
             label1.TabIndex = 0;
             label1.Text = "Keranjang Saya";
             // 
@@ -1273,7 +1279,6 @@
         private Panel panel1;
         private Label label1;
         private Panel panel2;
-        private CheckBox checkBox1;
         private Label label2;
         private Panel panel3;
         private Label label12;
@@ -1367,5 +1372,6 @@
         private Label label49;
         private PictureBox pictureBox31;
         private Label label48;
+        private CheckBox checkBox1;
     }
 }
